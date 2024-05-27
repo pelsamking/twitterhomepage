@@ -1,0 +1,107 @@
+.imagelogo{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 100px;
+    padding-top: 200px;
+    width: 50%;
+}
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1px solid grey;
+    
+
+
+
+}
+
+button{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin: 3px;
+    border: 150px;
+    border-radius: 10px;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h1{
+text-size-adjust:100px;
+color: white;
+font-size: 40px;
+}
+
+.text-container {
+    width: 50%;
+    display: flex;
+    flex-direction:column;
+    
+}
+
+.join {
+    color: white;
+}
+
+.googlelogo{
+    height: 15px;
+    width: 15px;
+    padding:2px;
+}
+
+.strai {
+    background-color: white;
+    width: 140px;
+    height: 1px;
+    color: white;
+}
+
+.or {
+    color: white;
+    
+}
+
+.orcontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+}
+.createcontainer{
+background: blue;
+}
+.createaccount{
+    color: white;
+    text-decoration: none;
+
+}
+.signing{
+    color: white;
+}
+.xos{
+    text-decoration: none;
+}
+.privacy{
+    text-decoration: none;
+}
+.cookies{
+    text-decoration: none;
+}
+.apple{
+    text-decoration: none;
+}
+.google{
+    text-decoration: none;
+}
+.applelogo{
+ height: 20px;
+ width: 20px;
+ padding: 2px;
+ background-color: white;   
+}
